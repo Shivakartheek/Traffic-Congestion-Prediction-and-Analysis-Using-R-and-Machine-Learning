@@ -1,0 +1,27 @@
+# R packages required by the Traffic Congestion project
+# (R does not read this file automatically - it is a checklist.)
+# Install everything with ONE command in the RStudio Console:
+#
+# install.packages(c("shiny", "shinydashboard", "DT", "plotly", "tidyverse",
+#                    "dplyr", "ggplot2", "readr", "tidyr", "stringr", "tibble",
+#                    "caret", "randomForest", "rpart", "nnet", "e1071", "scales"))
+#
+# R version: 4.1 or newer is recommended (ggplot2 3.4+ is used for line widths).
+
+shiny
+shinydashboard
+DT
+plotly
+tidyverse
+dplyr
+ggplot2
+readr
+tidyr
+stringr
+tibble
+caret
+randomForest
+rpart
+nnet
+e1071
+scales
